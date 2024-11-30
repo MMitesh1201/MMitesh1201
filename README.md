@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Streamlit,Huggingface**
+- 💬 Ask me about **Langchain,Deeplearning,Machinelearning,Streamlit,Huggingface,gradio,AI**
 
 - 📫 How to reach me **miteshagrawal27@gmail.com**
 
